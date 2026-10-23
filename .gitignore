@@ -1,0 +1,9 @@
+node_modules/
+bin/
+obj/
+__pycache__/
+*.pyc
+*.db
+*.db-*
+.env
+.env.*
